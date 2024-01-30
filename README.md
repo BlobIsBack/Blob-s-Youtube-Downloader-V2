@@ -12,4 +12,7 @@ i think the mp4 quality is a bit limited. this is because ffmpeg is not used in 
 i'm not 100% sure it's limited to 720p but it is likely that it is
 
 
+Btw sorry for my bad english, i'm french
+
+
 the software is in french and licensed under the apache license version 2.0
