@@ -12,6 +12,8 @@ app.resizable(False, False)
 
 # Configuration de l'emplacement de telechargement
 project_folder = os.path.dirname(os.path.realpath(__file__))
+if not os.path.exists(os.path.join(project_folder, 'Downloaded')):
+    os.mkdir(os.path.join(project_folder, 'Downloaded'))
 output_folder = os.path.join(project_folder, 'Downloaded')
 
 ydl_ops = {
