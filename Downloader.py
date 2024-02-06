@@ -2,7 +2,7 @@ from yt_dlp import YoutubeDL
 import os
 import customtkinter as customtk
 
-# Blob's Youtube Downloader
+# EasyGUI yt-dlp
 # Le logiciel peut surement être utilisé pour télécharger sur d'autres sites mais je n'ai pas testé
 
 
@@ -11,7 +11,7 @@ customtk.set_appearance_mode("Dark")
 customtk.set_default_color_theme("blue")
 app = customtk.CTk()
 app.geometry("400x300")
-app.title("Blob's Youtube Downloader")
+app.title("EasyGUI yt-dlp")
 app.resizable(False, False)
 
 # Configuration de l'emplacement de telechargement
