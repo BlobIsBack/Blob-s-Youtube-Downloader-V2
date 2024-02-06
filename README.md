@@ -1,5 +1,5 @@
-# Blob-s-Youtube-Downloader-V2
-A python script to download youtube mp4 and mp3
+# EasyGUI yt-dlp
+A python software to download mp4 and mp3 using yt-dlp
 
 
 install the libraries from requirements.txt or just use the executable from the release page to make it work
