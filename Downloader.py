@@ -3,8 +3,6 @@ import os
 import customtkinter as customtk
 
 # EasyGUI yt-dlp
-# Le logiciel peut surement être utilisé pour télécharger sur d'autres sites mais je n'ai pas testé
-
 
 # Configuration de la fenetre
 customtk.set_appearance_mode("Dark")
