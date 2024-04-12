@@ -1,6 +1,7 @@
 # EasyGUI yt-dlp
 A python software to download mp4 and mp3 using yt-dlp
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBlobIsBack%2FEasyGUI_yt-dlp&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Page+Views&edge_flat=false)](https://hits.seeyoufarm.com)
 
 install the libraries from requirements.txt or just use the executable from the release page to make it work
 
