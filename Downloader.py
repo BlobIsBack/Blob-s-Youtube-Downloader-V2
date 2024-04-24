@@ -2,7 +2,7 @@ from yt_dlp import YoutubeDL
 import os
 import customtkinter as customtk
 
-# EasyGUI yt-dlp
+# Simple yt-dlp
 
 # Configuration de la fenetre
 customtk.set_appearance_mode("Dark")
