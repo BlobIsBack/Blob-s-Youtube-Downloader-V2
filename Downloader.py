@@ -9,7 +9,7 @@ customtk.set_appearance_mode("Dark")
 customtk.set_default_color_theme("blue")
 app = customtk.CTk()
 app.geometry("400x300")
-app.title("EasyGUI yt-dlp")
+app.title("Simple yt-dlp")
 app.resizable(False, False)
 
 # Configuration de l'emplacement de telechargement
