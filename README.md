@@ -20,3 +20,5 @@ Btw sorry for my bad english, i'm french
 the software is in french and licensed under the apache license version 2.0.
 
 feel free to do a pull request or issue if there is a problem with the executable or python script
+
+the executable file is not updated
