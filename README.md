@@ -10,9 +10,7 @@ the executable is falsely detected as a malware, it's most likely due to the use
 
 i think the mp4 is sometimes not downloaded as highest quality . this is because ffmpeg is not used in this project (it takes to much space) thus resulting in the mp4 not being downloaded at maximum quality
 
-
-the commits added after the latest release are just small changes like updated variable names, added comments, updating readme, aside from the app name nothing has changed (it is EasyGUI yt-dlp in the executable)
-
+the builds are not updated and i accidentally made the ui uglier while translating the ui in the latest commit
 
 Btw sorry for my bad english, i'm french
 
